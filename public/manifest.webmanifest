@@ -1,0 +1,18 @@
+{
+  "name": "Notre bulle",
+  "short_name": "Bulle",
+  "description": "Une mini-app privée pour deux amoureux.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#f7c7d9",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
